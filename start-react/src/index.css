@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+}
+body {
+	height: 100%;
+	margin: 0;
+}
+.top-container {
+	height: 100%;
+	background-color: #122F42;
+	color: darkgray;
+	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+	font-weight: 100;
+}

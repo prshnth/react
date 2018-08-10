@@ -1,9 +1,10 @@
 .dots-parent {
 	margin-right: auto;
-	display: flex;
 }
 .dots-container {
 	flex: 1 1 auto;
+	height: 100%;
+	margin: 20px;
 	display: flex;
 	flex-direction: column;
 }
@@ -11,7 +12,7 @@
 	display: flex;
 }
 .line {
-	height: 50px;
+	height: 70px;
 	width: 1px;
 	display: flex;
 	border-radius: 2px;

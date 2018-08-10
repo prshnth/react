@@ -1,0 +1,42 @@
+.dots-parent {
+	margin-right: auto;
+	display: flex;
+}
+.dots-container {
+	flex: 1 1 auto;
+	display: flex;
+	flex-direction: column;
+}
+.dot {
+	display: flex;
+}
+.line {
+	height: 50px;
+	width: 1px;
+	display: flex;
+	border-radius: 2px;
+	background-color: darkgray;
+}
+.line-dot-container {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+.achievement-container {
+	margin-left: 30px;
+}
+.achievement {
+	display: flex;
+	flex-direction: column;
+	margin-left: 10px;
+}
+.divider {
+	border: 1px solid darkolivegreen;
+	margin: 0 5px;
+}
+.dot-description {
+	display: flex;
+}
+.sub-achievement {
+	color: lightslategray;
+}
